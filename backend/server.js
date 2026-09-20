@@ -45,7 +45,7 @@ app.post("/api/items", async (request, response, next) => {
     // INTENTIONAL DEFECT: whitespace-only titles are accepted.
     // Leave this in place until a peer outside the team files the GitHub issue.
     const title = typeof request.body.title === "string" ? request.body.title : "";
-    if (title.length === 0) {
+    if (title.trim().length === 0) {
       response.status(400).json({ error: "title is required" });
       return;
     }
