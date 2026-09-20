@@ -1,6 +1,6 @@
 # Phase 0 Submission
 
-Team members: Sajal Patel,Harsit Patel,Dhruv Pnachani
+Team members: Sajal Patel,Harshit Patel,Dhruv Panchani
 
 Project Option: [Project 1]
 
