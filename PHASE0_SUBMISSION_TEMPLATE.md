@@ -14,11 +14,11 @@ Database provider: Supabase
 
 Frontend/backend hosting provider: Render
 
-Peer-filed issue URL: [Paste the link to the issue your classmate opened on your GitHub]
+Peer-filed issue URL: https://github.com/sajal19-sketch/cosc3506-team-10/issues/1
 
-Correcting commit or pull-request URL: [Paste the link to your specific GitHub commit where you added .trim()]
+Correcting commit or pull-request URL: https://github.com/sajal19-sketch/cosc3506-team-10/commit/6b6c89e9d4625b1c755c5ca32fee781c7fd1e1c8
 
-Peer production-verification comment URL: [Paste the link to your classmate's final comment saying the bug is fixed]
+Peer production-verification comment URL: https://github.com/sajal19-sketch/cosc3506-team-10/issues/1#issuecomment-5752046654
 
 `phase0-complete` tag URL: https://github.com/sajal19-sketch/cosc3506-team-10/releases/tag/phase0-complete
 
